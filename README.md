@@ -22,6 +22,7 @@
 - bcrypt: `npm i bcrypt`
 - connect-session-sequelize: `npm i connect-session-sequelize`
 - dotenv `npm i dotenv`
+- express: `npm i express`
 - express-handlebars: `npm i express-handlebars`
 - express-session: `npm i express-session`
 - MySQL2 `npm i mysql2`
